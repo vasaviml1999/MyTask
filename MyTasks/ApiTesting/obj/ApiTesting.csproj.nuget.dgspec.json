@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyTask\\MyTasks\\MyShoppingWebsite\\MyShoppingWebsite.csproj": {}
+    "D:\\MyTask\\MyTasks\\ApiTesting\\ApiTesting.csproj": {}
   },
   "projects": {
-    "D:\\MyTask\\MyTasks\\MyShoppingWebsite\\MyShoppingWebsite.csproj": {
+    "D:\\MyTask\\MyTasks\\ApiTesting\\ApiTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyTask\\MyTasks\\MyShoppingWebsite\\MyShoppingWebsite.csproj",
-        "projectName": "MyShoppingWebsite",
-        "projectPath": "D:\\MyTask\\MyTasks\\MyShoppingWebsite\\MyShoppingWebsite.csproj",
+        "projectUniqueName": "D:\\MyTask\\MyTasks\\ApiTesting\\ApiTesting.csproj",
+        "projectName": "ApiTesting",
+        "projectPath": "D:\\MyTask\\MyTasks\\ApiTesting\\ApiTesting.csproj",
         "packagesPath": "C:\\Users\\LM65883\\.nuget\\packages\\",
-        "outputPath": "D:\\MyTask\\MyTasks\\MyShoppingWebsite\\obj\\",
+        "outputPath": "D:\\MyTask\\MyTasks\\ApiTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LM65883\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,10 +79,6 @@
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[4.2.0, )"
-            },
-            "Selenium.WebDriver.ChromeDriver": {
-              "target": "Package",
-              "version": "[102.0.5005.6102, )"
             },
             "System.Net.Http": {
               "target": "Package",

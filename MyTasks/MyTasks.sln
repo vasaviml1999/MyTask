@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShoppingWebsite", "MyShoppingWebsite\MyShoppingWebsite.csproj", "{364A8991-C1B6-42DD-B5E6-9E98FDFCD656}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTesting", "ApiTesting\ApiTesting.csproj", "{EA2EC565-BE7B-4719-B28C-B303D90DBAD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{364A8991-C1B6-42DD-B5E6-9E98FDFCD656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{364A8991-C1B6-42DD-B5E6-9E98FDFCD656}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{364A8991-C1B6-42DD-B5E6-9E98FDFCD656}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{364A8991-C1B6-42DD-B5E6-9E98FDFCD656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2EC565-BE7B-4719-B28C-B303D90DBAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2EC565-BE7B-4719-B28C-B303D90DBAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2EC565-BE7B-4719-B28C-B303D90DBAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2EC565-BE7B-4719-B28C-B303D90DBAD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

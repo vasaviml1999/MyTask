@@ -1671,12 +1671,6 @@
           "lib/net5.0/WebDriver.dll": {}
         }
       },
-      "Selenium.WebDriver.ChromeDriver/102.0.5005.6102": {
-        "type": "package",
-        "build": {
-          "build/Selenium.WebDriver.ChromeDriver.targets": {}
-        }
-      },
       "Serilog/2.8.0": {
         "type": "package",
         "dependencies": {
@@ -5884,25 +5878,6 @@
         "lib/netstandard2.1/WebDriver.dll",
         "selenium.webdriver.4.2.0.nupkg.sha512",
         "selenium.webdriver.nuspec"
-      ]
-    },
-    "Selenium.WebDriver.ChromeDriver/102.0.5005.6102": {
-      "sha512": "TGqy37Fn7QXfkOYSLHWorYTPJyeUA88FolgwdDZCafs//FqlTMet4zNGH4nGBOH/bjeWHHBmjmAwtpu/L4iQcg==",
-      "type": "package",
-      "path": "selenium.webdriver.chromedriver/102.0.5005.6102",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "README.md",
-        "build/DefinePropertiesChromeDriver.targets",
-        "build/Selenium.WebDriver.ChromeDriver.targets",
-        "driver/linux64/chromedriver",
-        "driver/mac64/chromedriver",
-        "driver/mac64arm/chromedriver",
-        "driver/win32/chromedriver.exe",
-        "nupkg-icon.png",
-        "selenium.webdriver.chromedriver.102.0.5005.6102.nupkg.sha512",
-        "selenium.webdriver.chromedriver.nuspec"
       ]
     },
     "Serilog/2.8.0": {
@@ -10494,7 +10469,6 @@
       "Newtonsoft.Json >= 13.0.1",
       "Selenium.Support >= 4.2.0",
       "Selenium.WebDriver >= 4.2.0",
-      "Selenium.WebDriver.ChromeDriver >= 102.0.5005.6102",
       "System.Net.Http >= 4.3.4",
       "TestProject.SDK >= 0.65.0"
     ]
@@ -10505,11 +10479,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyTask\\MyTasks\\MyShoppingWebsite\\MyShoppingWebsite.csproj",
-      "projectName": "MyShoppingWebsite",
-      "projectPath": "D:\\MyTask\\MyTasks\\MyShoppingWebsite\\MyShoppingWebsite.csproj",
+      "projectUniqueName": "D:\\MyTask\\MyTasks\\ApiTesting\\ApiTesting.csproj",
+      "projectName": "ApiTesting",
+      "projectPath": "D:\\MyTask\\MyTasks\\ApiTesting\\ApiTesting.csproj",
       "packagesPath": "C:\\Users\\LM65883\\.nuget\\packages\\",
-      "outputPath": "D:\\MyTask\\MyTasks\\MyShoppingWebsite\\obj\\",
+      "outputPath": "D:\\MyTask\\MyTasks\\ApiTesting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LM65883\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10577,10 +10551,6 @@
           "Selenium.WebDriver": {
             "target": "Package",
             "version": "[4.2.0, )"
-          },
-          "Selenium.WebDriver.ChromeDriver": {
-            "target": "Package",
-            "version": "[102.0.5005.6102, )"
           },
           "System.Net.Http": {
             "target": "Package",

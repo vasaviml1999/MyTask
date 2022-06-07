@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aUriX8UCL0CnhVuuVTolujZI1YBe0ZqGbyOfcsjqkdIthqT6/P1Yxr15jpAeAUIJa/0/TiFbcYBsD/kwsotk5A==",
+  "dgSpecHash": "WhPZWfvClsISgKX5IoSmbmrduVPn2N4ARmFCJpTBwf1pC2kXZWmXkWLagaRRNUnmrkkPbmH4HjQNC+gDL2/WQQ==",
   "success": true,
-  "projectFilePath": "D:\\MyTask\\MyTasks\\MyShoppingWebsite\\MyShoppingWebsite.csproj",
+  "projectFilePath": "D:\\MyTask\\MyTasks\\ApiTesting\\ApiTesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LM65883\\.nuget\\packages\\appium.webdriver\\4.2.1\\appium.webdriver.4.2.1.nupkg.sha512",
     "C:\\Users\\LM65883\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
@@ -109,7 +109,6 @@
     "C:\\Users\\LM65883\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\LM65883\\.nuget\\packages\\selenium.support\\4.2.0\\selenium.support.4.2.0.nupkg.sha512",
     "C:\\Users\\LM65883\\.nuget\\packages\\selenium.webdriver\\4.2.0\\selenium.webdriver.4.2.0.nupkg.sha512",
-    "C:\\Users\\LM65883\\.nuget\\packages\\selenium.webdriver.chromedriver\\102.0.5005.6102\\selenium.webdriver.chromedriver.102.0.5005.6102.nupkg.sha512",
     "C:\\Users\\LM65883\\.nuget\\packages\\serilog\\2.8.0\\serilog.2.8.0.nupkg.sha512",
     "C:\\Users\\LM65883\\.nuget\\packages\\serilog.extensions.logging\\2.0.4\\serilog.extensions.logging.2.0.4.nupkg.sha512",
     "C:\\Users\\LM65883\\.nuget\\packages\\serilog.sinks.console\\3.1.1\\serilog.sinks.console.3.1.1.nupkg.sha512",
