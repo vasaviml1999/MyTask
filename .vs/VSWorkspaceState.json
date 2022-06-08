@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MyTasks",
+    "\\MyTasks\\MyShoppingWebsite",
+    "\\MyTasks\\ShoppingWebsite"
   ],
-  "SelectedNode": "\\D:\\MyTask",
+  "SelectedNode": "\\MyTasks\\MyTasks.sln",
   "PreviewInSolutionExplorer": false
 }
