@@ -15,7 +15,7 @@ namespace MyTask.ApiTesting
         public void ExtentStart()
         {
             TestResult = new ExtentReports();
-            var htmlReporter = new ExtentHtmlReporter(@"C:\Users\LM65883\source\repos\MyTask\ApiTesting\ExtentReport\index.html");
+            var htmlReporter = new ExtentHtmlReporter(@"D:\MyTask\MyTasks\ApiTesting\ExtentReport\index.html");
             TestResult.AttachReporter(htmlReporter);
         }
         [OneTimeTearDown]

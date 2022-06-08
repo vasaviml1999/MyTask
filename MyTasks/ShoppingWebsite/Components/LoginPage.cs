@@ -1,4 +1,5 @@
 ﻿using OpenQA.Selenium;
+using OpenQA.Selenium.Support.UI;
 using System;
 using System.Threading;
 namespace ShoppingWebsite.Components
@@ -17,7 +18,8 @@ namespace ShoppingWebsite.Components
                 if (Username != null)
                 {
                     Username.SendKeys("rahulshettyacademy");
-                    Thread.Sleep(1000);
+                    //Thread.Sleep(1000);
+                    WebDriverWait wait1 = new WebDriverWait(driver, TimeSpan.FromSeconds(15));
                 }
                 else
                 {
@@ -34,7 +36,8 @@ namespace ShoppingWebsite.Components
                 if (Password != null)
                 {
                     Password.SendKeys("learning");
-                    Thread.Sleep(1000);
+                    //Thread.Sleep(1000);
+                    WebDriverWait wait1 = new WebDriverWait(driver, TimeSpan.FromSeconds(15));
                 }
                 else
                 {
@@ -49,7 +52,8 @@ namespace ShoppingWebsite.Components
             if (Login != null)
             {
                 Login.Click();
-                Thread.Sleep(1000);
+               // Thread.Sleep(1000);
+                WebDriverWait wait1 = new WebDriverWait(driver, TimeSpan.FromSeconds(15));
             }
             else
             {

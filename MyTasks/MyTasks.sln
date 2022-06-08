@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiTesting", "ApiTesting\ApiTesting.csproj", "{EA2EC565-BE7B-4719-B28C-B303D90DBAD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingWebsite", "ShoppingWebsite\ShoppingWebsite.csproj", "{9564D83C-9C5A-4096-93C7-7612F5EE24D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingWebsite", "ShoppingWebsite\ShoppingWebsite.csproj", "{9564D83C-9C5A-4096-93C7-7612F5EE24D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

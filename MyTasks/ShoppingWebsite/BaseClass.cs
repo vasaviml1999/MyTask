@@ -5,7 +5,7 @@ using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.IE;
 using AventStack.ExtentReports;
 using AventStack.ExtentReports.Reporter;
-
+using OpenQA.Selenium.Support.UI;
 
 namespace ShoppingWebsite
 {
@@ -35,7 +35,8 @@ namespace ShoppingWebsite
                     Reportforchrome.Log(Status.Info, "url is opened");
                     driver.Manage().Window.Maximize();
                     Reportforchrome.Log(Status.Info, "Window is maximized");
-                    driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(50);
+                   // driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(50);
+                    WebDriverWait wait1 = new WebDriverWait(driver, TimeSpan.FromSeconds(15));
                     Reportforchrome.Log(Status.Info, "Total Setup is ready to execute the test methods");
                     TestResult.Flush();
                     break;

@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\MyTasks",
-    "\\MyTasks\\MyShoppingWebsite",
     "\\MyTasks\\ShoppingWebsite"
   ],
-  "SelectedNode": "\\MyTasks\\MyTasks.sln",
+  "SelectedNode": "\\MyTasks\\ShoppingWebsite\\BaseClass.cs",
   "PreviewInSolutionExplorer": false
 }
